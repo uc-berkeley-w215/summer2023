@@ -131,7 +131,7 @@ UC Berkeley is committed to creating a learning environment that meets the needs
 
 If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to request an official accommodation. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process here: <dsp.berkeley.edu>. If you have already been approved for accommodations through DSP, please meet with me so we can develop an implementation plan together.
 
-Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkelely.edu.
+Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkeley.edu.
 
 
 ## Readings
