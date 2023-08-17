@@ -8,7 +8,7 @@
 ### Readings you may choose to present
 
   - [Privacy as Intellectual Property?](https://people.ischool.berkeley.edu/~pam/papers/privasip_draft.pdf) by Pamela Samuelson (2000).
-  - [Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting](http://www.heinz.cmu.edu/~acquisti/papers/acquisti_grossklags_eis_refs.pdf), by Acquisti and Grossklags (2004).
+  - [Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting](https://www.heinz.cmu.edu/~acquisti/papers/acquisti_grossklags_eis_refs.pdf), by Acquisti and Grossklags (2004).
   - [A Taxonomy of Privacy](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1376&context=penn_law_review), by Solove (2006). (Please read up to page 491; that is, right before the section “Information collection”).
   - [Privacy Perceptions and Norms in Youth and Adults](https://drive.google.com/file/d/1KePIKzlfEZV6zQFYvy0olkbOpbc0YwcH/view?usp=share_link) by Bietz et al. (2019).
   - [Is There a Reverse Privacy Paradox?](https://petsymposium.org/popets/2023/popets-2023-0027.pdf) by Colnago, Cranor, and Acquisti (2023).
