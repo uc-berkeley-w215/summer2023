@@ -16,7 +16,7 @@
 
 ### Optional readings (if you're really interested in this topic)
 
-  - [The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study](http://www.guanotronic.com/~serge/papers/isr10.pdf) by Tsai, Egelman, Cranor, and Acquisti (2011).  (mentioned in the videos)
+  - [The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study](https://drive.google.com/file/d/1sQc0A1i7hIZHRggDuvoTl77z8ahaEkyb/view?usp=sharing) by Tsai, Egelman, Cranor, and Acquisti (2011).  (mentioned in the videos)
   
   - [The Feasibility of Dynamically Granted Permissions: Aligning Mobile Privacy with User Preferences](https://arxiv.org/abs/1703.02090) by Wijesekera et al. (2017).  (mentioned in the videos)
 

@@ -14,7 +14,7 @@
 
 ### Optional readings (if you're really interested in this topic)
 
-- [You’ve Been Warned: An Empirical Study of the Effectiveness of Web Browser Phishing Warnings](http://www.guanotronic.com/~serge/papers/warned.pdf), by Egelman et al (2008).  (mentioned in the videos)
+- [You’ve Been Warned: An Empirical Study of the Effectiveness of Web Browser Phishing Warnings](https://drive.google.com/file/d/1RVBfzEQETagpwfbuGP_VLsNwOCPbdRSx/view?usp=sharing), by Egelman et al (2008).  (mentioned in the videos)
 
 ### Async responses/reflections due
 

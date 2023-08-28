@@ -24,7 +24,7 @@
 ### Original Course Creators & Video Lecturers
 
  - [Maritza Johnson](http://maritzajohnson.com/)
- - [Serge Egelman](https://www.guanotronic.com/~serge/)
+ - [Serge Egelman](https://www.icsi.berkeley.edu/icsi/people/egelman)
  - [Stuart Schechter](https://twitter.com/uppajung)
  - [Cristian Bravo-Lillo](https://twitter.com/tamabravolillo)
 

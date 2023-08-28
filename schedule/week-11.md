@@ -11,8 +11,8 @@ Readings to be presented will appear here. Please send a message to your instruc
   - [Android permissions: User attention, comprehension, and behavior](http://cups.cs.cmu.edu/soups/2012/proceedings/a3_Felt.pdf) by Felt, A. P., Ha, E., Egelman, S., Haney, A., Chin, E., & Wagner, D. (2012).
   - [Little brother’s watching you: Raising awareness of data leaks on smartphones](http://cups.cs.cmu.edu/soups/2013/proceedings/a12_Balebako.pdf) by Balebako, R., Jung, J., Lu, W., Cranor, L., & Nguyen, C. (2013).
   - [Privacy as part of the app decision-making process](https://www.cylab.cmu.edu/_files/pdfs/tech_reports/CMUCyLab13003.pdf) by Kelley, P. G., Cranor, L. F., & Sadeh, N. (2013).
-  - [Choice architecture and smartphone privacy: There’s a price for that](https://www.guanotronic.com/~serge/papers/weis12.pdf) by Egelman, S., Felt, A. P., & Wagner, D. (2013).
-  - [When it’s better to ask forgiveness than get permission: Attribution mechanisms for smartphone resources](https://www.guanotronic.com/~serge/papers/soups13.pdf) by Thompson, C., Johnson, M., Egelman, S., Wagner, D., & King, J. (2013).
+  - [Choice architecture and smartphone privacy: There’s a price for that](https://drive.google.com/file/d/1ihBIo4gtQ7TTLo1iZOVHbfSnRe3TxI3H/view?usp=sharing) by Egelman, S., Felt, A. P., & Wagner, D. (2013).
+  - [When it’s better to ask forgiveness than get permission: Attribution mechanisms for smartphone resources](https://drive.google.com/file/d/1gIyBKtwI48zCENSyrXU66GPYwVeE_8LG/view?usp=sharing) by Thompson, C., Johnson, M., Egelman, S., Wagner, D., & King, J. (2013).
 
 ### Async responses/reflections due
 
