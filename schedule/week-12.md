@@ -12,7 +12,7 @@ Readings to be presented will appear here. Please send a message to your instruc
   - [SoK: Secure messaging](https://oaklandsok.github.io/papers/unger2014.pdf) by Unger, N., Dechand, S., Bonneau, J., Fahl, S., Perl, H., Goldberg, I. & Smith, M. (2015).
   - [When the Weakest Link is Strong: Secure
 Collaboration in the Case of the Panama Papers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-mcgregor.pdf), by McGregor et al. (2017)
-  - [Why Joanie Can Encrypt: Easy Email Encryption with Easy Key Management](https://dl.acm.org/doi/pdf/10.1145/3302424.3303980), by Koh et al. (2019).
+  - [Why Joanie Can Encrypt: Easy Email Encryption with Easy Key Management](https://drive.google.com/file/d/18Xos5KznpfqPrwqSyl2PWVcwxAzhsEwS/view?usp=sharing), by Koh et al. (2019).
 
 
 ### Optional readings (if you're really interested in this topic)

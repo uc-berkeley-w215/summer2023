@@ -10,7 +10,7 @@
 
 - [Put your warning where your link is: Improving and evaluating email phishing warnings](https://drive.google.com/file/d/1zxAGKT8-a-zL2_KEcUSuZXlmav2DPPfL/view?usp=sharing), by Petelka et al (2019).
 
-- [(Un)informed Consent: Studying GDPR Consent Notices in the Field](https://dl.acm.org/doi/pdf/10.1145/3319535.3354212), by Utz et al (2019).
+- [(Un)informed Consent: Studying GDPR Consent Notices in the Field](https://drive.google.com/file/d/13JNXFFKXz8Czpa7VjrIdx7akq4kA_aax/view?usp=sharing), by Utz et al (2019).
 
 ### Optional readings (if you're really interested in this topic)
 
